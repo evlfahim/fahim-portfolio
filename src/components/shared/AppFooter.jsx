@@ -9,29 +9,24 @@ import AppFooterCopyright from './AppFooterCopyright';
 
 const socialLinks = [
 	{
-		id: 1,
-		icon: <FiGlobe />,
-		url: 'https://www.stoman.me/',
-	},
-	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/realstoman',
+		url: 'https://github.com/evlfahim',
 	},
 	{
 		id: 3,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
+		url: 'https://twitter.com/evlfahim',
 	},
 	{
 		id: 4,
 		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/realstoman',
+		url: 'https://www.linkedin.com/in/fahim-bin-lokman-453447143',
 	},
 	{
 		id: 5,
 		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/realstoman',
+		url: 'https://www.youtube.com/c/fahimbinlokman',
 	},
 ];
 

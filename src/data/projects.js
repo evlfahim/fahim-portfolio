@@ -9,43 +9,42 @@ import UIImage2 from '../images/ui-project-2.jpg';
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'Tasker App',
 		category: 'Web Application',
 		img: WebImage2,
 		ProjectHeader: {
-			title: 'Project Management UI - From Context',
-			publishDate: 'Jul 26, 2021',
-			tags: 'UI / Frontend',
+			title: 'A tasker Application',
+			publishDate: 'June 20, 2019',
+			tags: 'UI / Frontend && Backend',
 		},
 	},
+	
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
-		category: 'Mobile Application',
-		img: MobileImage2,
-	},
-	{
-		id: 3,
-		title: 'Project Management UI',
-		category: 'UI/UX Design',
-		img: UIImage1,
-	},
-	{
-		id: 4,
 		title: 'Cloud Storage Platform',
 		category: 'UI/UX Design',
 		img: UIImage2,
 	},
 	{
-		id: 5,
-		title: 'React Social App',
-		category: 'Mobile Application',
+		id: 3,
+		title: 'Cloud Dashboard',
+		category: 'Web Application',
 		img: MobileImage1,
+		ProjectHeader: {
+			title: 'A Dashboard for Multiple vendors',
+			publishDate: 'AUG 7, 2021',
+			tags: 'UI / Frontend && Backend',
+		},
 	},
 	{
-		id: 6,
-		title: 'Apple Design System',
+		id: 4,
+		title: '800getfood',
 		category: 'Web Application',
 		img: WebImage1,
+		ProjectHeader: {
+			title: 'Food order and rider App',
+			publishDate: 'Feb 26, 2020',
+			tags: 'UI / Frontend && Backend',
+		},
 	},
 ];
