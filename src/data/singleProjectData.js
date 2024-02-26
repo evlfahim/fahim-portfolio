@@ -16,24 +16,34 @@ import {
 
 export const singleProjectData = {
 	ProjectHeader: {
-		title: 'Project Management UI',
-		publishDate: 'Jul 26, 2021',
-		tags: 'UI / Frontend',
+		title: 'Tasker App',
+		publishDate: 'Jul 26, 2020',
+		tags: 'Full Stack Web Development',
 	},
 	ProjectImages: [
 		{
 			id: 1,
-			title: 'Kabul Project Management UI',
+			title: 'Tasker App',
 			img: Image1,
 		},
 		{
 			id: 2,
-			title: 'Kabul Project Management UI',
+			title: 'Project Management Application',
 			img: Image2,
 		},
 		{
 			id: 3,
-			title: 'Kabul Project Management UI',
+			title: 'Cloud Dashboard',
+			img: Image3,
+		},
+		{
+			id: 4,
+			title: '800getfood',
+			img: Image3,
+		},
+		{
+			id: 5,
+			title: 'Sementic Similarity',
 			img: Image3,
 		},
 	],
