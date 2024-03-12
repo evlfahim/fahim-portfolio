@@ -8,11 +8,16 @@ const contacts = [
 	},
 	{
 		id: 2,
-		name: 'fahim@thecloud.ae',
+		name: 'evlfahim@gmail.com',
 		icon: <FiMail />,
 	},
 	{
 		id: 3,
+		name: 'fahimbinlokman@ymail.com',
+		icon: <FiMail />,
+	},
+	{
+		id: 4,
 		name: '971564206942',
 		icon: <FiPhone />,
 	},
