@@ -3,7 +3,7 @@ import { FiPhone, FiMapPin, FiMail } from 'react-icons/fi';
 const contacts = [
 	{
 		id: 1,
-		name: 'Apt. 305, Floor 3, The Bridges Tower 6, Al Reem Island, Abu Dhabi, UAE',
+		name: 'Abu Dhabi, UAE',
 		icon: <FiMapPin />,
 	},
 	{
@@ -13,12 +13,7 @@ const contacts = [
 	},
 	{
 		id: 3,
-		name: 'fahimbinlokman@ymail.com',
-		icon: <FiMail />,
-	},
-	{
-		id: 4,
-		name: '971564206942',
+		name: '+971564206942',
 		icon: <FiPhone />,
 	},
 ];
