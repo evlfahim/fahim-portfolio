@@ -1,10 +1,34 @@
 export const aboutMeData = [
 	{
 		id: 1,
-		bio: 'Hello, and welcome to my portfolio! I am an experienced and versatile full stack developer with a passion for creating robust and innovative web applications. With over 9 years of industry-level work experience, I have honed my skills across a wide range of programming and web development technologies, making me well-equipped to tackle any project that comes my way.Throughout my career, I have demonstrated a deep understanding of both front-end and back-end development, allowing me to seamlessly integrate user-friendly interfaces with powerful server-side functionalities. From crafting captivating user experiences using HTML, CSS, and JavaScript, to building scalable and efficient server-side applications with languages such as Python, Ruby, or Node.js, I possess a comprehensive skill set that encompasses the entire development stack.My expertise extends to various frameworks and libraries, including but not limited to React, Angular, Vue.js, Express.js, Django, and Ruby on Rails. Leveraging these technologies, I have successfully delivered a diverse range of projects, from responsive single-page applications to complex enterprise systems.Beyond my technical abilities, I am a strong believer in clean and maintainable code, adhering to industry best practices and employing efficient coding standards. I am also well-versed in version control systems like Git, ensuring collaborative and streamlined development processes.What sets me apart is my dedication to staying updated with the latest trends and advancements in the field of web development. I actively seek out opportunities to expand my knowledge and skill set, ensuring that I can leverage cutting-edge technologies to deliver solutions that are both modern and future-proof.',
+		bio: 'Strategic AI/ML Engineer and Cloud Solutions Architect specialized in designing, deploying, and scaling production-grade AI systems. Expert in combining hands-on machine learning (LLMs, RAG, Vector Search) with robust cloud architecture (Kubernetes, Serverless, MLOps). Proven track record in leading end-to-end solution delivery, from reference architectures to cost-optimized, secure production services.',
 	},
 	{
 		id: 2,
-		bio: 'Throughout my career, I have had the pleasure of collaborating with diverse teams, fostering a positive and collaborative work environment. I possess excellent communication skills, allowing me to effectively translate complex technical concepts to non-technical stakeholders and work seamlessly within interdisciplinary teams.In summary, as a seasoned full stack developer with extensive industry experience and a comprehensive understanding of programming and web development technologies, I am confident in my ability to deliver exceptional solutions tailored to meet your unique requirements. I invite you to explore my portfolio and discover the range and quality of projects I have undertaken. Let\'s embark on a journey together to create remarkable web applications that make a lasting impact.',
+		bio: 'CORE COMPETENCIES: AI/ML (Generative AI, LLMs, RAG, Vector Databases), Cloud & Infrastructure (AWS, OpenStack, Kubernetes, Serverless), DevOps & MLOps (CI/CD, Model Registry, Observability), Full-Stack Development (TypeScript, React.js, Node.js, PHP Laravel).',
+	},
+	{
+		id: 3,
+		bio: 'PROFESSIONAL EXPERIENCE: Senior Cloud & AI Engineer at Cyber Core Technology (Aug 2024 – Present). Lead delivery of AI solutions, architecting RAG-based systems, managing MLOps workflows, and optimizing cloud infrastructure on AWS and OpenStack.',
+	},
+	{
+		id: 4,
+		bio: 'Full-stack Developer at The Cloud - Food Ecosystem (Jan 2021 – Nov 2024). Developed scalable web applications using MERN and PHP stacks, engineered backend services, and integrated data visualization dashboards.',
+	},
+	{
+		id: 5,
+		bio: 'Previous roles include PHP Developer at The Cloud, PHP Web Developer at NatWeb Solutions, and CEO/Lead Developer at Wismit IT.',
+	},
+	{
+		id: 6,
+		bio: 'TECHNICAL SKILLS: Languages (Python, JavaScript, TypeScript, PHP, SQL), Frameworks (React.js, Laravel, Django, Flask), Cloud/DevOps (AWS, OpenStack, Kubernetes, Docker, Git), Databases (MySQL, MariaDB, AWS RDS, Vector Databases).',
+	},
+	{
+		id: 7,
+		bio: 'CERTIFICATIONS: Certified Kubernetes Administrator (CKA), Red Hat Certified Engineer in Red Hat OpenStack.',
+	},
+	{
+		id: 8,
+		bio: 'EDUCATION: Master of Science (MSc) in Computer Science, University of South Wales (2015 – 2016).',
 	},
 ];
